@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "3-in-1 Wireless Charging Station",
+    "description": "Declutter your desk and power up your ecosystem. This sleek station charges your phone, smartwatch, and earbuds all at once. The perfect upgrade for any modern workspace.",
+    "imageUrl": "https://via.placeholder.com/300x300.png?text=Charger",
+    "affiliateUrl": ""
+  },
+  {
+    "id": 2,
+    "name": "Smart LED Light Strips",
+    "description": "Transform any room with millions of colors. Perfect for setting the mood, creating dynamic gaming setups, or adding accent lighting to your home. Control everything from your smartphone.",
+    "imageUrl": "https://via.placeholder.com/300x300.png?text=LED+Strips",
+    "affiliateUrl": ""
+  },
+  {
+    "id": 3,
+    "name": "Portable Mini Projector",
+    "description": "Your personal cinema, anywhere you go. Turn any wall into a big screen for movies, shows, or gaming. It's compact, easy to use, and surprisingly powerful.",
+    "imageUrl": "https://via.placeholder.com/300x300.png?text=Projector",
+    "affiliateUrl": ""
+  }
+]
